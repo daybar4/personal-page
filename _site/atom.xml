@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>David Aybar's personal page.</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-10-05T19:15:20+02:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>David Aybar Vidal</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Phantom</title>
+   <link href="http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.md-original"/>
+   <updated>2016-02-20T22:15:00+01:00</updated>
+   <id>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Rescue Themes</title>
+   <link href="http://localhost:4000/development/design/2016/02/20/rescue-themes.md-original"/>
+   <updated>2016-02-20T16:56:00+01:00</updated>
+   <id>http://localhost:4000/development/design/2016/02/20/rescue-themes</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Weathercast</title>
+   <link href="http://localhost:4000/development/2016/02/20/weathercast.md-original"/>
+   <updated>2016-02-20T16:56:00+01:00</updated>
+   <id>http://localhost:4000/development/2016/02/20/weathercast</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Bloc Jams Angular</title>
+   <link href="http://localhost:4000/development/2016/02/20/bloc-jams-angular.md-original"/>
+   <updated>2016-02-20T15:15:00+01:00</updated>
+   <id>http://localhost:4000/development/2016/02/20/bloc-jams-angular</id>
+   <content type="html"></content>
+ </entry>
+ 
+
+</feed>
