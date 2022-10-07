@@ -1,6 +1,6 @@
 ## Credit
 
-* Phantom for Jekyll, [Jekyll](http://jekyllrb.com/)
+* Phantom for Jekyll, [Phantom](https://jamigibbs.github.io/phantom/) & [Jekyll](http://jekyllrb.com/)
 
 * Bootstrap, http://getbootstrap.com/, (C) 2011 - 2016 Twitter, Inc., [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
 
