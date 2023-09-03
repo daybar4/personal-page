@@ -33,7 +33,10 @@
     <a href="https://x.com/David_Aybar_" target="_blank" class="x"><i class="bi bi-x"></i></a>
 <a href="mailto:daybar4@gmail.com" target="_blank" class="gmail"><i class="bx bxl-gmail"></i></a>
 </div>
-<h4 class="translate" data-key="hero-subtitle"><button id="changeToSpanish" style="background-color: transparent; border: none; cursor: pointer;">ES | </button>davidaybar.com</h4>
+<h4>
+<a id="changeToSpanish" style="background-color: transparent; border: none; cursor: pointer;">ES | </a>
+<a id="changeToCatalan" style="background-color: transparent; border: none; cursor: pointer;">CAT</a></h4>
+<h4 class="translate" data-key="hero-subtitle">davidaybar.com</h4>
 </div>
 </section>
 
@@ -42,6 +45,11 @@
         window.location.href = 'index-es.html';
     }
     document.getElementById('changeToSpanish').addEventListener('click', changeToSpanish);
+
+     function changeToCatalan() {
+        window.location.href = 'index-cat.html';
+     }
+    document.getElementById('changeToCatalan').addEventListener('click', changeToCatalan);
 </script>
 
 <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
